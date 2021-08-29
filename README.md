@@ -1,0 +1,2 @@
+# startup-ztm
+ztm startup
